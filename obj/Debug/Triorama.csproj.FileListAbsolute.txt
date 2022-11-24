@@ -1,0 +1,10 @@
+C:\Users\ANDREITA\source\repos\Triorama\bin\Debug\Triorama.exe.config
+C:\Users\ANDREITA\source\repos\Triorama\bin\Debug\Triorama.exe
+C:\Users\ANDREITA\source\repos\Triorama\bin\Debug\Triorama.pdb
+C:\Users\ANDREITA\source\repos\Triorama\obj\Debug\Triorama.csprojAssemblyReference.cache
+C:\Users\ANDREITA\source\repos\Triorama\obj\Debug\Triorama.Form1.resources
+C:\Users\ANDREITA\source\repos\Triorama\obj\Debug\Triorama.Properties.Resources.resources
+C:\Users\ANDREITA\source\repos\Triorama\obj\Debug\Triorama.csproj.GenerateResource.cache
+C:\Users\ANDREITA\source\repos\Triorama\obj\Debug\Triorama.csproj.CoreCompileInputs.cache
+C:\Users\ANDREITA\source\repos\Triorama\obj\Debug\Triorama.exe
+C:\Users\ANDREITA\source\repos\Triorama\obj\Debug\Triorama.pdb
